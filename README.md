@@ -1,0 +1,2 @@
+# JobPlacementNAlumniManagement
+NiitSem6Project
